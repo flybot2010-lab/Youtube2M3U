@@ -22,13 +22,12 @@ yt-dlp (pip install yt_dlp)
 
 m3u8 (pip install m3u8)
 ## System Requirements
-Recommended System
 
-16+ GB of ram. (all the video info is stored in ram before being wrote to the m3u8)
+LOTS OF RAM. (all the video info is stored in ram before being wrote to the m3u8)
 
 VPN. (Don't get ratelimited!)
 
-Ethernet. (Speeder Downloads Of Video Info)
+Ethernet. (Optional) (Speedier Downloads Of Video Info)
 
 ## Why?
 "Science Isn't About Why, It's About Why Not.."
