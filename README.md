@@ -23,4 +23,6 @@ Recommended System
 VPN. (Don't get ratelimited!)
 Ethernet. (Speeder Downloads Of Video Info)
 ## Why?
-https://github.com/user-attachments/assets/14d7091a-34e9-4c61-82b5-cce484edbf22
+"Science Isn't About Why, It's About Why Not.."
+
+- Cave Johnson.
