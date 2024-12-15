@@ -1,6 +1,8 @@
 # Youtube2M3U
 A slow and cobbled together mess for converting YOUTUBE PLAYLISTS into PLAYABLE M3U FILES.
 
+(Pull Request Improvements Greatly Appreciated)
+
 This is NOT compatabile with LIVE STREAMS. This is for PLAYLISTS.
 
 Just edit the py file with your designated playlist, and let it role.
