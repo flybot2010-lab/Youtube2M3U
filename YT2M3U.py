@@ -1,10 +1,12 @@
+# Imports
 import yt_dlp
 
-# CHANGE ME!!!!
+# Varibles.
 playlist_url = 'https://www.youtube.com/playlist?list=PLCfybMeVmbeEcFpijT8pO0C8WsB--tnpu'
+m3u8filename = 'playlist.m3u'
 
 # Create M3U file
-with open('Playlist.m3u', 'w') as m3u_file:
+with open(m3u8filename, 'w') as m3u_file:
     m3u_file.write('#EXTM3U\n')  # M3U header
     
     # Use yt-dlp to extract playlist information
