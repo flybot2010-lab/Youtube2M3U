@@ -1,6 +1,7 @@
 # Imports
 import yt_dlp
 
+print("This version of YT2M3U is not updated. Please Use The GUI version.")
 # Varibles.
 playlist_url = 'https://www.youtube.com/playlist?list=PLCfybMeVmbeEcFpijT8pO0C8WsB--tnpu'
 m3u8filename = 'playlist.m3u'
